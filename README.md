@@ -13,20 +13,13 @@ AIVM is a cutting-edge framework designed for privacy-preserving inference using
 
 ## Installing AIVM
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/NillionNetwork/aivm.git
-   cd aivm
-   ```
-
-2. Create a virtual environment:
+1. Create a virtual environment:
 
    ```bash
    python3 -m venv .venv
    ```
 
-3. Activate the virtual environment:
+2. Activate the virtual environment:
 
    On Linux/macOS:
 
@@ -40,7 +33,7 @@ AIVM is a cutting-edge framework designed for privacy-preserving inference using
    .\venv\Scripts\activate
    ```
 
-4. Install the package:
+3. Install the package:
 
    If you are going to execute the examples execute:
    ```bash
@@ -59,13 +52,13 @@ AIVM is a cutting-edge framework designed for privacy-preserving inference using
    aivm-devnet
    ```
 
-2. Open the provided Jupyter notebook `examples/getting-started.ipynb` to run private inference examples on AIVM.
+2. Open the provided Jupyter notebook [examples/getting-started.ipynb](./examples/1-getting-started.ipynb) to run private inference examples on AIVM.
 
 3. After completing your tasks, terminate the devnet process by pressing `CTRL+C`.
 
 ## Usage
 
-**For additional usage, refer to the `examples` folder, which demonstrates how to set up private inference workflows using AIVM.**
+**For additional usage, refer to the [examples](./examples/README.md) folder, which demonstrates how to set up private inference workflows using AIVM.**
 
 ## Performing Secure Inference
 
