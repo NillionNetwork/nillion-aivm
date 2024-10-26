@@ -39,3 +39,10 @@ A pre-trained **BertTiny** model for sentiment classification on Twitter data. T
 ---
 
 Each notebook is designed to be run sequentially or independently based on your specific use case. Refer to the main [README](../README.md) for more information on how to set up and run AIVM.
+
+## Project Ideas
+
+<!-- Points to AIVM Discord Bot Repo -->
+- [Nillion AIVM Discord Bot for Message Sentiment Analysis](https://github.com/NillionNetwork/aivm-discord-bot)
+<!-- This should point to Tom's Github Repo -->
+- [Slack Bot for Hotdog Image Detection](https://github.com/crypblizz8/hotdog_or_not_aivm) 
